@@ -42,7 +42,8 @@
     "@types/react-dom": ">=16",
     "prop-types": ">=15",
     "react": ">=15",
-    "react-dom": ">=15"
+    "react-dom": ">=15",
+    "angular": ">=1.5 <1.8.0"
   },
   "devDependencies": {
     "@types/angular": "^1.6.54",
@@ -76,7 +77,6 @@
   },
   "dependencies": {
     "@types/lodash.frompairs": "^4.0.5",
-    "angular": ">=1.5",
     "lodash.frompairs": "^4.0.1",
     "ngcomponent": "^4.1.0"
   }
